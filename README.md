@@ -7,10 +7,10 @@
 
 ---
 
-- 🎯 I’m learning **LLMs and Python for AI-based web applications**
-- 🤝 Looking to collaborate on **AI or DSA-focused projects**
-- 💬 Ask me about **C++, Python, Streamlit, Tailwind CSS**
-- 📬 Reach me at: **mianfahad664@gmail.com**
+- learning **LLMs and Python for AI-based web applications**
+- Looking to collaborate on **AI focused projects**
+- Ask me about **C++, Python, Streamlit, Tailwind CSS**
+- Reach me at: **mianfahad664@gmail.com**
 
 ---
 
