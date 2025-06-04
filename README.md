@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D6&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Fahad;AI+Web+App+Developer;Python+%7C+Streamlit+Enthusiast;DSA+Lover+%26+Problem+Solver;C%2B%2B+Developer,Bash+Scripting" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Muhammad+Fahad;AI+Web+App+Developer;Python+%7C+Streamlit+Enthusiast;DSA+Lover+%26+Problem+Solver;C%2B%2B+Developer,Bash+Scripting" 
+    alt="Typing SVG" 
+  />
 </p>
 
-
-<h3 align="center">Aspiring Software Engineer | Building AI Apps with Simplicity</h3>
+<h3 align="center" style="margin-top: 40px; margin-bottom: 40px;">Aspiring Software Engineer | Building AI Apps with Simplicity</h3>
 
 ---
 
-- learning **LLMs and Python for AI-based web applications**
-- Looking to collaborate on **AI focused projects**
-- Ask me about **C++, Python, Streamlit, Tailwind CSS**
-- Reach me at: **mianfahad664@gmail.com**
+<div style="margin-bottom: 30px;">
+- Learning <b>LLMs and Python for AI-based web applications</b><br>
+- Looking to collaborate on <b>AI focused projects</b><br>
+- Ask me about <b>C++, Python, Streamlit, Tailwind CSS</b><br>
+- Reach me at: <b>mianfahad664@gmail.com</b>
+</div>
 
 ---
 
 ### ⚙️ Tools & Technologies
-<p align="center">
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -29,7 +33,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align="center" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/muhammad-fahad-136436291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
