@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Muhammad+Fahad;AI+Web+App+Developer;Python+%7C+Streamlit+Enthusiast;DSA+Lover+%26+Problem+Solver;C%2B%2B+Developer,Bash+Scripting" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=800&height=100&size=32&hide_cursor=false&lines=Hi+I'm+Muhammad+Fahad;AI+Web+App+Developer;Python+%7C+Streamlit+Enthusiast;DSA+Lover+%26+Problem+Solver;C%2B%2B+Developer,Bash+Scripting" 
     alt="Typing SVG" 
   />
 </p>
+
 
 <h3 align="center" style="margin-top: 40px; margin-bottom: 40px;">Aspiring Software Engineer | Building AI Apps with Simplicity</h3>
 
